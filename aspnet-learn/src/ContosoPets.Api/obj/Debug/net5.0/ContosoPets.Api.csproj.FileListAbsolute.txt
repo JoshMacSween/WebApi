@@ -26,3 +26,6 @@
 /Users/joshmacsween/Desktop/ReactNet/apiTut/aspnet-learn/src/ContosoPets.Api/obj/Debug/net5.0/ref/ContosoPets.Api.dll
 /Users/joshmacsween/Desktop/ReactNet/apiTut/aspnet-learn/src/ContosoPets.Api/obj/Debug/net5.0/ContosoPets.Api.pdb
 /Users/joshmacsween/Desktop/ReactNet/apiTut/aspnet-learn/src/ContosoPets.Api/obj/Debug/net5.0/ContosoPets.Api.genruntimeconfig.cache
+/Users/joshmacsween/Desktop/ReactNet/apiTut/aspnet-learn/src/ContosoPets.Api/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/joshmacsween/Desktop/ReactNet/apiTut/aspnet-learn/src/ContosoPets.Api/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/joshmacsween/Desktop/ReactNet/apiTut/aspnet-learn/src/ContosoPets.Api/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.InMemory.dll
